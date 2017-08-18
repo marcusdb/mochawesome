@@ -57,7 +57,7 @@
     "diff": "^3.0.0",
     "json-stringify-safe": "^5.0.1",
     "lodash": "^4.17.3",
-    "mochawesome-report-generator": "^2.2.0",
+    "mochawesome-report-generator":"https://github.com/dok/mochawesome-report-generator.git",
     "strip-ansi": "^4.0.0",
     "uuid": "^3.0.1"
   },
