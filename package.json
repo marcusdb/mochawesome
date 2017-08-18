@@ -1,5 +1,5 @@
 {
-  "name": "mochawesome",
+  "name": "mochawesome-rb",
   "version": "2.3.0",
   "description": "A Gorgeous HTML/CSS Reporter for Mocha.js",
   "scripts": {
@@ -12,11 +12,11 @@
     "dev": "babel --watch src -d dist",
     "build": "babel src -d dist"
   },
-  "author": "Adam Gruber",
+  "author": "forked",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adamgruber/mochawesome"
+    "url": "https://github.com/marcusdb/mochawesome"
   },
   "keywords": [
     "mocha",
@@ -57,7 +57,7 @@
     "diff": "^3.0.0",
     "json-stringify-safe": "^5.0.1",
     "lodash": "^4.17.3",
-    "mochawesome-report-generator":"dok/mochawesome-report-generator",
+    "mochawesome-report-generator-rb":"dok/mochawesome-report-generator",
     "strip-ansi": "^4.0.0",
     "uuid": "^3.0.1"
   },
